@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+	<h1> Olá :)</h1>
+	<h2>Meu nome é Angela</h2>
+	<p>(Ela/Dela)</p>
+</div>
 
-<!--
-**7f-45-4c-46/7f-45-4c-46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div>
+	<br>Meu nome é Angela ou Angel, sou uma mulher trans, programadora full stack, aprendi programação com meu pai ainda na infancia, assim comecei a estudar sobre e a criar interesse.</br>
+	<br>
+	<br>Eu tenho um grande interesse por hardware hacking e low level programing e de estudar sobre arquiteturas de processador não tão convencionais como RISC-V, openrisc, MIPS, AVR(32), etc.</br>
+	<br>
+	<br>Sei falar: Português (nativo), Ingles (fluente), Alemão (básico) e Japonês (básico). Hoje em dia estudo mecatrônica no IFSP (Instituto Federal de São Paulo).</br>
+	<br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+Atualmente: Trabalhando em alguns projetos pessoais e aprendendo alemão.
+  
