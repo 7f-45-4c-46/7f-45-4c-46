@@ -1,6 +1,6 @@
 <div align="center">
-	<h1> Olá :)</h1>
-	<h2>Meu nome é Angela</h2>
+	<h1>Olá :)</h1>
+	<h3>Meu nome é Angela</h3>
 	<p>(Ela/Dela)</p>
 </div>
 
@@ -16,6 +16,7 @@
 </div>
 
 ###
+###
 
-Atualmente: Trabalhando em alguns projetos pessoais e aprendendo alemão.
+Atualmente Trabalhando em alguns projetos pessoais e aprendendo alemão.
   
