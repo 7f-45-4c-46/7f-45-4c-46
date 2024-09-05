@@ -13,6 +13,8 @@
 	<br>
 	<br>Sei falar: Português (nativo), Ingles (fluente), Alemão (básico) e Japonês (básico). Hoje em dia estudo mecatrônica no IFSP (Instituto Federal de São Paulo).</br>
 	<br>
+	<br>discord: _rosalulu</br>
+	<br>matrix: @angel:envs.net</br>
 </div>
 
 ###
